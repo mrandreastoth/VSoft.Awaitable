@@ -1,6 +1,6 @@
 # VSoft.Awaitable
 
-This is a simple library for making Asynchronous function calls. It is a wrapper over [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary) and is based on it's own Parallel.Async functionality.
+This is a simple library for making Asynchronous function calls. It is a wrapper over [OmniThreadLibrary](https://github.com/gabr42/OmniThreadLibrary) and is based on its own Parallel.Async functionality.
 
 Parallel.Async does not provide a simple way to cancel calls, and be notified of the cancellation, and it does not allow the returning of results.
 
